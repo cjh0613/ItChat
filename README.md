@@ -1,5 +1,13 @@
 # itchat
 
+# 可以使用的两个版本：
+
+https://github.com/cjh0613/ItChat/tree/DirtyF1sh
+
+https://github.com/cjh0613/ItChat/tree/luvletter2333
+
+# 必须使用源码安装
+
 [![Gitter][gitter-picture]][gitter] ![py27][py27] ![py35][py35] [English version][english-version]
 
 itchat是一个开源的微信个人号接口，使用python调用微信从未如此简单。
